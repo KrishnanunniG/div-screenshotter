@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26835717/README.md)# Element Screenshot
+# Element Screenshot
 
 A Chrome extension that lets you screenshot any element on a page — just like Firefox's built-in screenshot tool, but for Chrome.
 
